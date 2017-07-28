@@ -1,0 +1,46 @@
+﻿
+/*NavBar Styling*/
+#navvy {
+    background-color: #5C5CFF;
+}
+
+body{
+font-family:'Open Sans', sans-serif; 
+}
+
+
+.heading2 
+{
+    text-align:center;
+    font-family:'Open Sans', sans-serif;
+    font-size: 24px;
+    background-color: #5C5CFF;
+}
+.heading3
+{
+text-align:center;
+    font-family:'Open Sans', sans-serif;
+    font-size: 24px;
+    background-color: #5C5CFF;
+}
+
+#container{
+    height:auto;
+    width: 400px;
+    position: relative;
+    }
+#image{
+    position: absolute;
+    left:0;
+    top:0;
+    }
+#text{
+    z-index: 100;
+    color:white;
+    font-size:24px; 
+}  
+.heading4 {
+  font-family:'Open Sans', sans-serif;
+    font-size: 24px;
+    background-color: #5C5CFF;
+}  
